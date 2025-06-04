@@ -1,0 +1,19 @@
+TECNOLAB - 3 departamentos
+Administração, Produção, Recursos Humanos
+
+Todos os computadores estão ligaddos a uma LAN gerida por um servidor com Windows Server 2022
+
+1. Indica três funções do sistema operativo de rede local (SON) que estão claramente presentes neste cenário. Justifica cada uma.
+R: Sistema de registro, bloqueio de pastas e dispositivo com gestão de acesso.
+
+2. Se um funcionário da Produção tentar aceder a pasta do departamento de RH, o que deve acontecer? Porquê?
+R: O acesso é bloqueado e envia um alerta ao computador principal, porque apenas os IPs permitidos acessam.
+
+3. Qual a função do sistema operativo ao obrigar os utilizadores a efetuarem login com credenciais próprias?
+R: Para a segurança e autenticidade própria.
+
+4. A partilha da impressora entre os departamentos de RH e Administração é controlada por quê? Que papel tem a SON aqui?
+R: Para limitar e gerir as ações de cada departamento na impressora.
+
+5. Como é que o SON pode ajudar o adminstrador da rede a identificar uma tentativa de acesso não autorizado?
+R: Caso o IP seja diferente dos IPs autorizados.
